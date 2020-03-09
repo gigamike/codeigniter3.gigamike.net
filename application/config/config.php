@@ -524,7 +524,7 @@ $config['proxy_ips'] = '';
 
 $config['sess_use_database'] = true;
 
-$config['google_recaptcha_key'] = '6LcCFdQUAAAAADDMh3gH7L6pcjsOdLGp_Ym6YSeR';
-$config['google_recaptcha_secret'] = '6LcCFdQUAAAAAMGlkfDFsK0Fts3HMIe9R5La9icM';
+$config['google_recaptcha_key'] = '';
+$config['google_recaptcha_secret'] = '';
 
-$config['email'] = 'gigamike@gigamike.net';
+$config['email'] = '';
